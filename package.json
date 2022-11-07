@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-autotests",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Hexlet autotests practical project",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scaramou4/hexlet-autotests.git"
+  },
+  "author": "scaramouche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scaramou4/hexlet-autotests/issues"
+  },
+  "homepage": "https://github.com/scaramou4/hexlet-autotests#readme"
+}
